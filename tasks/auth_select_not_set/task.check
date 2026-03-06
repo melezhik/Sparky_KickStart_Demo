@@ -1,0 +1,11 @@
+note: Test authselect default profile
+
+note: authselect is installed
+within: test1
+/usr/bin/authselect
+end:
+
+note: default authselect configuration is detected
+within: test2
+Profile ID: local
+end:
