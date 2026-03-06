@@ -1,1 +1,1 @@
-task-run "tasks/test";
+task-run "tasks/{tags()<ks_file>.IO.basename.subst(/'.ks' $$/,'')}";
