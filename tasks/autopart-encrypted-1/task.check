@@ -1,0 +1,8 @@
+LUKS device found
+
+note: crypted contain a root device
+within: test1
+/
+end:
+
+can open crypted with the passphrase
