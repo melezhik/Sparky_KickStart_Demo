@@ -1,1 +1,6 @@
-ext2
+note: file system check
+begin:
+regexp: ^^ /boot \s+  ext2 $$
+regexp: ^^ "[SWAP]" \s+ swap $$
+regexp: ^^ "/" \s+ ext2 $$
+end:
