@@ -8,7 +8,9 @@ Sparky KickStart Demo
 
 * auth_select_not_set.ks
 
-* autopart-encrypted-1.ks
+* autopart-encrypted-1.ks (disabled)
+
+* autopart-fstype.ks
 
 # Repository layout
 
