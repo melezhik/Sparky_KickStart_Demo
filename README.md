@@ -4,13 +4,11 @@ Sparky KickStart Demo
 
 # Tests / Kickstart files:
 
-* demo.ks
-
-* auth_select_not_set.ks
-
-* autopart-encrypted-1.ks (disabled)
-
-* autopart-fstype.ks
+```
+auth-select-not-set.ks
+autopart-fstype.ks
+dummy.ks
+```
 
 # Repository layout
 

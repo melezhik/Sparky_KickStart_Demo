@@ -25,6 +25,6 @@ autopart --type=plain --fstype="ext2"
 # Reboot after installation
 #reboot
 
-%packages
-@^minimal-environment
-%end
+#%packages
+#@^minimal-environment
+#%end

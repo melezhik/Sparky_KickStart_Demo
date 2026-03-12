@@ -25,6 +25,6 @@ autopart --type=plain
 # Reboot after installation
 #reboot
 
-%packages
-@^minimal-environment
-%end
+#%packages
+#@^minimal-environment
+#%end
